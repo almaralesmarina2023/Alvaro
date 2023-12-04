@@ -23,14 +23,13 @@ button:hover{
     width: 700px;
     height: max-content;
     position: absolute;
-    color: rgb(0, 0, 0);
+    color: #fff;
     
    
     background-color:chocolate;
     /* margin: 200px,auto; */
-    /* -webkit-backdrop-filter: blur(15px);
-    backdrop-filter:blur(15px);
-    background-color: rgba(0, 0, 0, 0.2); */
+    backdrop-filter:blur(50px);
+    background-color: rgba(204, 98, 12, 0.562); 
    display: flex;
    /* justify-content: center;
    align-items: center; */
