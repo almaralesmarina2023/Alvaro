@@ -1,0 +1,19 @@
+.container{
+    margin-left: 0;
+    width: max-content;
+}
+.principal{
+    position: absolute;
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    position: relative;
+    width: 50vw;
+    border-color: black;
+    height: 100px;
+    margin: 100px;
+    margin-right: 200px;
+}

@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+<div class="container">
+
+   <a [routerLink]="['/detalles',i] " class="nombre"> {{i+1+"-"}}  
+    {{recetah.nombre}}<br>
+
+        <div style="padding: 0;">
+            <img [src]=recetah.foto alt="iii"class="img-thumbnail" style="width: 250px;border: 0;">
+      
+    
+        </div>
+    </a>
+    <div class="ingredientes">
+        <ul>
+        <li>{{recetah.ingredientes}}</li>
+    </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

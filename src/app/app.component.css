@@ -1,0 +1,25 @@
+a {
+    margin: 10px 20px;
+    /* box-shadow: 0 0 2px 0; */
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black
+     
+}
+a:hover{
+    background-color: orange;
+    border-radius: 50px;
+
+}
+#inicio{
+    width: 80px;
+    border-radius: 50px;
+    background-color: orange;
+    color: black;
+}
+#cuentas{
+    width: 80px;
+    color: black;
+}
